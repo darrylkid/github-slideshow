@@ -1,6 +1,1 @@
----
-layout: slide
-title: "Welcome to our second slide!"
----
-Your text
-Use the left arrow to go back!
+<img>https://i.kym-cdn.com/photos/images/original/001/378/754/99d.jpg</img>
